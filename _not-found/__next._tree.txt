@@ -1,0 +1,3 @@
+:HL["/valorant-landing/_next/static/chunks/6f8b57b522f689b3.css","style"]
+:HL["/valorant-landing/_next/static/chunks/ab9889ff6c95d2d9.css","style"]
+0:{"buildId":"ewFFhQX_E5ziG9S8-dPqO","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

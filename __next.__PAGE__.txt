@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[97495,["/valorant-landing/_next/static/chunks/0268fbd51043774d.js","/valorant-landing/_next/static/chunks/7a0ba1cd3e70539d.js"],"default"]
+3:I[60687,["/valorant-landing/_next/static/chunks/0268fbd51043774d.js","/valorant-landing/_next/static/chunks/7a0ba1cd3e70539d.js"],"default"]
+4:I[2878,["/valorant-landing/_next/static/chunks/0268fbd51043774d.js","/valorant-landing/_next/static/chunks/7a0ba1cd3e70539d.js"],"default"]
+5:I[53437,["/valorant-landing/_next/static/chunks/0268fbd51043774d.js","/valorant-landing/_next/static/chunks/7a0ba1cd3e70539d.js"],"default"]
+6:I[81223,["/valorant-landing/_next/static/chunks/0268fbd51043774d.js","/valorant-landing/_next/static/chunks/7a0ba1cd3e70539d.js"],"default"]
+7:I[81484,["/valorant-landing/_next/static/chunks/095b579b10e5ea62.js","/valorant-landing/_next/static/chunks/c4ccc0d30c3d1992.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/valorant-landing/_next/static/chunks/b7bca2f568751c0f.css","style"]
+0:{"buildId":"ewFFhQX_E5ziG9S8-dPqO","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"fontFamily":"var(--font-lexend), sans-serif"},"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{"bgColor":"#f0ebe3"}]]}],[["$","link","0",{"rel":"stylesheet","href":"/valorant-landing/_next/static/chunks/b7bca2f568751c0f.css","precedence":"next"}],["$","script","script-0",{"src":"/valorant-landing/_next/static/chunks/0268fbd51043774d.js","async":true}],["$","script","script-1",{"src":"/valorant-landing/_next/static/chunks/7a0ba1cd3e70539d.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"loading":null,"isPartial":false}
+9:null

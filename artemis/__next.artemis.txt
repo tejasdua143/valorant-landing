@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[31562,["/valorant-landing/_next/static/chunks/095b579b10e5ea62.js","/valorant-landing/_next/static/chunks/c4ccc0d30c3d1992.js"],"default"]
+3:I[13127,["/valorant-landing/_next/static/chunks/095b579b10e5ea62.js","/valorant-landing/_next/static/chunks/c4ccc0d30c3d1992.js"],"default"]
+:HL["/valorant-landing/_next/static/chunks/11bea448a0301885.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Roboto:wght@300;400;500;700&family=PT+Mono&display=swap","style"]
+0:{"buildId":"ewFFhQX_E5ziG9S8-dPqO","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/valorant-landing/_next/static/chunks/11bea448a0301885.css","precedence":"next"}]],[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Roboto:wght@300;400;500;700&family=PT+Mono&display=swap","rel":"stylesheet"}],["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]]}],"loading":null,"isPartial":false}

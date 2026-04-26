@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[81484,["/valorant-landing/_next/static/chunks/095b579b10e5ea62.js","/valorant-landing/_next/static/chunks/c4ccc0d30c3d1992.js"],"ViewportBoundary"]
+3:I[81484,["/valorant-landing/_next/static/chunks/095b579b10e5ea62.js","/valorant-landing/_next/static/chunks/c4ccc0d30c3d1992.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[68418,["/valorant-landing/_next/static/chunks/095b579b10e5ea62.js","/valorant-landing/_next/static/chunks/c4ccc0d30c3d1992.js"],"IconMark"]
+0:{"buildId":"ewFFhQX_E5ziG9S8-dPqO","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Artemis by Athena"}],["$","meta","1",{"name":"description","content":"Instant game gift cards delivered to your Discord DMs."}],["$","link","2",{"rel":"icon","href":"/valorant-landing/icon.jpeg?icon.8b78af2b.jpeg","sizes":"1024x1024","type":"image/jpeg"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
